@@ -20,7 +20,7 @@ import java.util.List;
 public class ShardingController {
 
 
-    private int shardCount = 5;
+    private int shardCount;
     private List<Shard> shards = new ArrayList<>();
 
     private YamlConfig config;
