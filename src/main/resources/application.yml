@@ -1,0 +1,12 @@
+server:
+  port: 8083
+
+shards:
+    - url_1
+    - url_2
+    - url_3
+    - url_4
+
+
+
+
